@@ -1,5 +1,4 @@
-# Cosmological Coupled Black Holes with Regular Horizons: 
-## field equations derivation
+# Cosmological Coupled Black Holes with Regular Horizons: field equations derivation
 
 Here we verify and detail the field equations derivation from [2601.03296](https://arxiv.org/abs/2601.03296), by Cadoni, Lima, Pitzalis, Rodrigues and Sanna.
 
